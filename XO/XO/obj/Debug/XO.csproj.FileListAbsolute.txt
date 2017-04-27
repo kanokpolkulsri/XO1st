@@ -1,0 +1,9 @@
+C:\Users\sci01\Desktop\XO\XO\bin\Debug\XO.exe.config
+C:\Users\sci01\Desktop\XO\XO\bin\Debug\XO.exe
+C:\Users\sci01\Desktop\XO\XO\bin\Debug\XO.pdb
+C:\Users\sci01\Desktop\XO\XO\obj\Debug\XO.csprojResolveAssemblyReference.cache
+C:\Users\sci01\Desktop\XO\XO\obj\Debug\XO.Form1.resources
+C:\Users\sci01\Desktop\XO\XO\obj\Debug\XO.Properties.Resources.resources
+C:\Users\sci01\Desktop\XO\XO\obj\Debug\XO.csproj.GenerateResource.Cache
+C:\Users\sci01\Desktop\XO\XO\obj\Debug\XO.exe
+C:\Users\sci01\Desktop\XO\XO\obj\Debug\XO.pdb
